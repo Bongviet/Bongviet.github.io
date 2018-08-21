@@ -23,7 +23,8 @@ description: A virtual proof that name is awesome!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Điều khoản sử dụng"
+  Giới thiệu :"gioithieu"
+  Điều khoản sử dụng: "aboutme"
   Link tải App:
     - Ch Play: "https://play.google.com/store/apps/details?id=com.thang.bongda"
     - Apple Store: "http://www.markdowntutorial.com/"
