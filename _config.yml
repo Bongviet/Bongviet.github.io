@@ -23,6 +23,7 @@ description: Đặt sân nhanh bắt đối chuẩn
 
 # List of links in the navigation bar
 navbar-links:
+  Giới thiệu:""
   Điều khoản sử dụng: "aboutme"
   Link tải App:
     - Ch Play: "https://play.google.com/store/apps/details?id=com.thang.bongda"
